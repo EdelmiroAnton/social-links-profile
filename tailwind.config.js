@@ -6,6 +6,9 @@ export default {
       fontFamily: {
         inter: ["Inter, serif"],
       },
+      colors: {
+        backgroundGray: "#141414",
+      },
     },
   },
   plugins: [],
