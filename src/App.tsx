@@ -13,11 +13,14 @@ function App() {
           />
         </div>
 
-        <p className="text-white text-center text-[1.125rem] font-semibold mt-6">
+        <p className="text-white text-center text-[1.125rem] font-normal mt-6">
           Jessica Randall
         </p>
         <p className="text-fontGreen text-center text-[0.625rem] font-semibold mt-1">
           London, United Kingdom
+        </p>
+        <p className=" text-gray-300 text-center text-[0.5625rem] font-normal mt-4">
+          "Front-end developer and avid reader."
         </p>
       </main>
     </>
