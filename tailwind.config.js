@@ -12,6 +12,9 @@ export default {
         backgroundLinks: "#333333",
         fontGreen: "#c5f82a",
       },
+      screens: {
+        desktop:"1440px"
+      }
     },
   },
   plugins: [],
