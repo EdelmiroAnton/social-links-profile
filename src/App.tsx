@@ -33,8 +33,8 @@ function App() {
           <ul id="region1" className="max-w-full w-[270px] mx-auto mt-6">
             {links.map((el, i) => (
               <li
-                key={el[i]}
-                className="bg-backgroundLinks text-white text-center text-[0.8125rem] font-semibold mt-4 mb-3 p-1 rounded-lg h-10 content-center"
+                key={i}
+                className="bg-backgroundLinks text-white text-center text-[0.8125rem] font-semibold mt-4 mb-3 p-1 rounded-lg h-10 content-center hover:bg-fontGreen hover:cursor-pointer hover:pointer  hover:transition hover:ease-in-out hover:duration-300 hover:text-backgroundLinks"
               >
                 {el}
               </li>
