@@ -20,9 +20,9 @@ function App() {
             className="rounded-full m-auto w-[80px]"
           />
         </div>
-        <p className="text-white text-center text-[1.4375rem] font-normal mt-6">
+        <h1 className="text-white text-center text-[1.4375rem] font-normal mt-6">
           Jessica Randall
-        </p>
+        </h1>
         <p className="text-fontGreen text-center text-[0.8125rem] font-semibold mt-1">
           London, United Kingdom
         </p>
