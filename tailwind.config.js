@@ -13,8 +13,8 @@ export default {
         fontGreen: "#c5f82a",
       },
       screens: {
-        desktop:"1440px"
-      }
+        desktop: "1440px",
+      },
     },
   },
   plugins: [],
