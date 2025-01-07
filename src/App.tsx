@@ -1,5 +1,5 @@
 import "./App.css";
-import profile_img from "../assets/images/avatar-jessica.jpeg";
+import profile_img from "../src/assets/images/avatar-jessica.jpeg";
 
 function App() {
   const links: string[] = [
